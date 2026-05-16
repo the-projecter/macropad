@@ -15,8 +15,10 @@ The firmware is programmed using QMK and includes customizable keymaps, OLED sta
 <p align="left">
   <img src="images/nextpcb.svg" width="200">
 </p>
-This project is proudly sponsored by NextPCB. If you are working on a similar project, then get your first PCB here for only 0.1$.
 
+This project is proudly sponsored by
+[NextPCB](https://www.nextpcb.com/?code=Projecter). NextPCB is my first sponsor and this project was made possible through their support.
+If you are working on a similar project, then get your first PCB for only 0.1$.
 
 ## Hardware
 
