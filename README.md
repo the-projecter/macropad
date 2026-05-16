@@ -12,7 +12,11 @@ The firmware is programmed using QMK and includes customizable keymaps, OLED sta
 
 
 ## Sponsor
+<p align="left">
+  <img src="images/nextpcb.svg" width="200">
+</p>
 This project is proudly sponsored by NextPCB. If you are working on a similar project, then get your first PCB here for only 0.1$.
+
 
 ## Hardware
 
@@ -39,6 +43,12 @@ This project is proudly sponsored by NextPCB. If you are working on a similar pr
 * OLED support
 
 * RGB underglow effects
+
+## Finished Project
+
+<p align="left">
+  <img src="images/macropad.jpg" width="300">
+</p>
 
 
 
