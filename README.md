@@ -11,6 +11,7 @@ The macro pad features 9 Cherry MX switches, arranged in a 3x3 matrix, a 0.91" O
 The firmware is programmed using QMK and includes customizable keymaps, OLED status display support, and RGB lighting effects.
 
 
+This project is proudly sponsored by NextPCB. If you are working on a similar project, then get your first PCB here for only 0.1$.
 
 ## Hardware
 
@@ -44,4 +45,3 @@ The firmware is programmed using QMK and includes customizable keymaps, OLED sta
 
 
 
-This project is proudly sponsored by NextPCB. If you are working on a similar project, then get your first PCB here for only 0.1$.
